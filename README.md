@@ -33,9 +33,8 @@ The script expects a CSV file named `netflix_data.csv` with the following column
 1. Ensure you have the `netflix_data.csv` file in the same directory as the script.
 2. Execute the script:
 ```bash
-python name_of_the_script.py
+python Main.py
 ```
-Replace `name_of_the_script.py` with the name you've given to the script.
 
 ## Visualization Description
 
