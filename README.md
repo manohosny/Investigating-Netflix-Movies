@@ -28,14 +28,6 @@ The script expects a CSV file named `netflix_data.csv` with the following column
 - `release_year`: Year when the movie was released.
 - `duration`: Duration of the movie in minutes.
 
-## How to Run
-
-1. Ensure you have the `netflix_data.csv` file in the same directory as the script.
-2. Execute the script:
-```bash
-python Main.py
-```
-
 ## Visualization Description
 
 The script produces a scatter plot showing the duration of movies against their release year. Movies are color-coded based on their genre:
